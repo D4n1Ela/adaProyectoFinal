@@ -1,0 +1,38 @@
+/*{
+	font-family: 'Playfair Display', sans-serif;
+	/*border: 1px solid black;*/
+	/*
+}
+*/
+main{
+	font-size: 1.5rem;
+}
+
+main .equipment{
+	background: rgba(210, 218, 231, 0.4);
+}
+
+figure{
+	text-align: center;
+}
+
+main article>div>div>a{
+	background-color: #D0E5C6;
+	color: #000000;	
+}
+
+main article div>p{
+	border-bottom: 0.2em solid #D0E5C6;
+}
+
+main .fa-inverse{
+	color: #5b627e;
+}
+
+main .fa-circle{
+	color: #FFF;
+}
+
+main h1{
+	font-weight: bold;
+}

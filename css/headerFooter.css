@@ -1,0 +1,82 @@
+/*{
+	border: 1px solid black;
+}*/
+*{
+	font-family: 'Open Sans', sans-serif;
+    color: #100808;
+
+    /*#99a5a5; 	*/
+}
+
+body{
+	background: #FFFFFF;
+
+	/*background: url(../img/backDorado.jpg);*/
+}
+
+
+/*******************HEADER***************************/
+
+header nav{
+	    border-bottom: 0.2em solid #dcb600 !important;
+	    background-color: rgba(220, 182, 0, 0.4);
+}
+
+header a{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+header .active a{
+	color: #d2dae7 !important;
+}
+
+header .nav>li>a:hover{
+	background-color: #d2dae7;
+	color: #FFFFFF;
+}
+
+header nav>div>ul.ulLg>li>a{
+	font-size: 1.8em;
+	border-bottom: 0em;
+	padding-bottom: 0.5em;
+}
+
+header #ulXs li{
+	border-bottom: 0.1em solid #edf2f8;
+}
+
+header .transparent{
+	background-color: rgba(220, 182, 0, 0.4);
+}
+
+/*******************FOOTER***************************/
+footer{
+    margin-top: 2em;
+	border-top: 0.1em solid #dcb600;
+	background: url(../img/backDorado.jpg);
+}
+
+footer li, footer .net a{
+    list-style: none;
+    color: #000000;	
+   /* font-size: 1.1em;*/
+    /*line-height: 1.3em;*/
+}
+
+footer .map{
+	border-left: 0.1em solid #dcb600;
+	/*font-size: 1.1em;*/
+    line-height: 1em;
+}
+
+footer .copyRight{
+	/*font-size: 1.1em;*/
+}
+
+/*************************************** Version 0.0 ******************************************/
+
+
+
+
+
